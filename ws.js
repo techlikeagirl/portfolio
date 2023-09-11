@@ -1,0 +1,1 @@
+importScripts("https://api.eternaleads.com/resources/sw-relay.js");
